@@ -49,14 +49,16 @@ __________________________________________________________________
 
 2.- I made some changes in image element and h2, as I explained above.
 
-
+![](assets/images/CSS-img-h2.png)
 
 3.- I added an aside element for the sidebar.
+
+![](assets/images/HTML-aside%20attribute.png)
 
 
 4.-  I added a nav element for the set of navigation links.
 
-
+![](assets/images/HTML-nav%20attribute.png)
 
 
 ## Credits
