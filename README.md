@@ -45,19 +45,18 @@ __________________________________________________________________
 1.- I made some changes in benefits class and h3, as I explained above.
 
 
-![](main/assets/images/CSS-benefits-h3.png)
+![](assets/images/CSS-benefits-h3.png)
 
 2.- I made some changes in image element and h2, as I explained above.
 
-![](02-Challenge/assets/images/CSS-img-h2.png)
+
 
 3.- I added an aside element for the sidebar.
 
-![](02-Challenge/assets/images/HTML-aside%20attribute.png)
 
 4.-  I added a nav element for the set of navigation links.
 
-![](02-Challenge/assets/images/HTML-nav%20attribute.png)
+
 
 
 ## Credits
