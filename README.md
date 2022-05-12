@@ -60,6 +60,15 @@ __________________________________________________________________
 
 ![](assets/images/HTML-nav%20attribute.png)
 
+## Screenshots of the website refactor
+
+![](assets/images/website1.png)
+
+![](assets/images/website2.png)
+
+![](assets/images/website3.png)
+
+
 
 ## Credits
 I used W3Schools for some information regarding semantics.
