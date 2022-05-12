@@ -45,7 +45,7 @@ __________________________________________________________________
 1.- I made some changes in benefits class and h3, as I explained above.
 
 
-![](improved-lamp/blob/main/assets/images/CSS-benefits-h3.png)
+![](main/assets/images/CSS-benefits-h3.png)
 
 2.- I made some changes in image element and h2, as I explained above.
 
