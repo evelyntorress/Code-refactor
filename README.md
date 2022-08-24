@@ -1,13 +1,8 @@
-# improved-lamp
-
-
-# -Horiseon Web Site-
+# Code refactor
 ## Description
 
 The goal of the following project was to make the site more web accessible.
 Implementing a codebase that follows accessibility standards, so the site is optimized for search engines.
-
-
 
 
 - The source code has semantic HTML elements.
@@ -15,8 +10,6 @@ Implementing a codebase that follows accessibility standards, so the site is opt
 - The image elements have alt attributes defined.
 - The heading attributes have sequential order.
 - The title element is concise and descriptive.
-
-
 
 
 There was a link not working properly. Is fixed. All links are functioning correctly now.
