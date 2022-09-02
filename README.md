@@ -18,6 +18,10 @@ Comments are included before each element or section of the page.
 
 The efficiency of the CSS by consolidating the selectors and properties.
 
+## Deployed site
+
+https://evelyntorress.github.io/Code-refactor/
+
 ## Screenshots of the website refactor
 
 ![](assets/images/website1.jpeg)
